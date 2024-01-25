@@ -5,7 +5,7 @@ name         'bs_blackmarket'
 author       'BigSmoke07'
 version      '1.0.0'
 license      'LGPL-3.0-or-later'
-repository   'https://github.com'
+repository   'https://github.com/BigSmoKe07/bs_blackmarket'
 
 
 
